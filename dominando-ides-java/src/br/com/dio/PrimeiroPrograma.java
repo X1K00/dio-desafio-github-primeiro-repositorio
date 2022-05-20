@@ -12,6 +12,7 @@ public class PrimeiroPrograma {
 		System.out.println(gato);
 		System.out.println(livro);
 		
+		// comentario para teste
 		/*Scanner input = new Scanner(System.in);
 		System.out.print("Digite um valor para A: ");
 		int a = input.nextInt();
