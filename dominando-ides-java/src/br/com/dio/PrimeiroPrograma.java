@@ -9,6 +9,9 @@ public class PrimeiroPrograma {
 		Gato gato = new Gato("Xanin", "Azul", 12);
 		Livro livro = new Livro();
 		
+		System.out.println(gato);
+		System.out.println(livro);
+		
 		/*Scanner input = new Scanner(System.in);
 		System.out.print("Digite um valor para A: ");
 		int a = input.nextInt();
