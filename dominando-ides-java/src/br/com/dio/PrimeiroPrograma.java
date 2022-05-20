@@ -16,12 +16,10 @@ public class PrimeiroPrograma {
 		int b = input.nextInt();
 		System.out.printf("a soma de A + B = %s", a+b);
 		}*/
-	}
+	}	
 
+}
 class Livro{
 	private String nome;
 	private String npag;
-}
-	
-
 }
